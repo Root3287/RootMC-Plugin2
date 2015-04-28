@@ -7,7 +7,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Main extends JavaPlugin{
 	
 	//Config File
-		public static SettingManager sm = SettingManager.getInstance();
+	public static SettingManager sm = SettingManager.getInstance();
 	
 	
 	
