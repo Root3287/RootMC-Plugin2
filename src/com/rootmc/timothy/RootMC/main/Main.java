@@ -10,6 +10,8 @@ public class Main extends JavaPlugin{
 	public static SettingManager sm = SettingManager.getInstance();
 	
 	
+	//LOGGER
+	public static Final Logger log = Logger.getLogger("Minecraft");
 	
 	//Loads when the plugin is loading
 	@Override
